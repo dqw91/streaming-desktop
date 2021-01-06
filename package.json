@@ -20,7 +20,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.14.0",
     "@grpc/proto-loader": "^0.5.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "crash-handler": "https://slobs-crash-handler.s3-us-west-2.amazonaws.com/crash-handler-0.0.0.tar.gz",
     "cross-env": "^7.0.2",
     "electron-is-dev": "^1.2.0",
